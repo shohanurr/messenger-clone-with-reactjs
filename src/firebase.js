@@ -1,5 +1,6 @@
 import firebase from "firebase";
 
+//firebase config
 const firebaseApp = firebase.initializeApp({
         apiKey: "AIzaSyCl6rARAjclcQ3A14qx3c59rf1IY7fj4YU",
         authDomain: "messenger-clone-f1eea.firebaseapp.com",
